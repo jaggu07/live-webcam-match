@@ -1,0 +1,14 @@
+{
+    "name": "live-webcam-match",
+    "version": "1.0.0",
+    "description": "JavaScript API for face detection and face recognition in the browser with tensorflow.js",
+    "scripts": {
+        "start": "node server.js"
+      },
+      "author": "justadudewhohacks",
+      "license": "MIT",
+      "dependencies": {
+        "express": "^4.17.1",
+        "request": "^2.88.2"
+      }
+}
